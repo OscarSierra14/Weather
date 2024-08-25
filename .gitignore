@@ -1,0 +1,97 @@
+# Xcode
+#
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcuserdatad
+*.xcuserstate
+*.xcplayground
+*.xcscheme
+*.xcschemes
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+*.xcodeproj/xcshareddata/WorkspaceSettings.xcsettings
+*.xcodeproj/xcuserdata/WorkspaceSettings.xcsettings
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Build generated
+build/
+DerivedData/
+*.xcscheme
+*.xcscheme
+*.xcscheme
+*.xcscheme
+*.xcscheme
+*.xcuserdata
+
+# Swift Package Manager
+*.build/
+Package.resolved
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+Podfile
+
+# CocoaPods for Swift Package Manager
+*.xcworkspace/
+*.xcuserstate/
+
+# Other
+*.moved-aside
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Personal Settings
+*.env
+*.hmap
+*.swiftpm/xcode/xcdebugger/Breakpoints_xcdebugger/
+
+# Xcode Server
+*.xcuserstate
+
+# Swift Package Manager
+*.build/
+
+# Misc
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+*.Spotlight-V100
+*.Trashes
+*.fseventsd
+*.documentRevisions-V100
+*.bdmap
+*.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.DS_Store
+*.xcuserstate
+
+# Custom files
+*.xcworkspace/xcuserdata
+*.xcuserdata/WorkspaceSettings.xcsettings
+*.xcuserdata/xcdebugger/
+*.xcuserdata/UserInterfaceState.xcuserstate
+*.xcuserdata/WorkspaceSettings.xcsettings
+
+# Other IDEs
+.idea/
+*.iml
